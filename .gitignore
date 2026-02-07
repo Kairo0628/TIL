@@ -1,4 +1,4 @@
 __pycache__
 
-01_Testing
 .pytest_cache
+.coverage
