@@ -1,4 +1,7 @@
-소프트웨어 설계와 테스트에 관련하여 공부한 문서입니다.
+## 소프트웨어 설계와 테스트에 관련하여 공부한 문서입니다.
+
+**소프트웨어 테스트에 대한 간단 개념**
+- [Software Testing](https://www.notion.so/1-Software-Testing-2fb103c0763381138456c3280754c164?source=copy_link)
 
 **2026-02-05**
 - 정적 분석(Static Analysis)
@@ -13,4 +16,4 @@
 - pytest
     - [pytest](https://www.notion.so/2-pytest-2ff103c076338000ade6d6b2e40718b7?source=copy_link)
     - calculator.py: 유닛 테스트의 대상이 되는 파일
-    - test_calculator.py: 유닛 테스트 실행 파일
+    - test_calculator.py: 유닛 테스트 실행 
