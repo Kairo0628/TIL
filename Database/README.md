@@ -8,3 +8,8 @@
 **2026-02-10**
 - [트랜잭션](https://www.notion.so/4-303103c076338009813de2f5c4fd83c6?source=copy_link)
     - +교착상태
+
+**2026-02-11**
+- [CAP 정리](https://www.notion.so/5-CAP-303103c0763380889e2ccc9f3b688df5?source=copy_link)
+- [OLTP / OLAP](https://www.notion.so/6-OLTP-OLAP-304103c0763380c9ae71f0b64c3493f0?source=copy_link)
+    - +동시성 제어
