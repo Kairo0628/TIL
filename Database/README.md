@@ -20,3 +20,6 @@
 **2026-02-19**
 - [윈도우 함수](https://www.notion.so/8-Window-Function-306103c07633805d9d0cce1ce1c0bd72?source=copy_link)
 - [정규 표현식](https://www.notion.so/9-30c103c0763380509ac6ee88d723feb9?source=copy_link)
+
+**2026-02-20**
+- [Spark 데이터프레임 처리 기초](https://www.notion.so/4-30c103c07633807ba776d3235ada0bca?source=copy_link)
