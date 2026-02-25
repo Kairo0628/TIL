@@ -22,3 +22,7 @@
     - execution_plan.ipynb
 - [Bucketing, Partitioning](https://www.notion.so/9-Bucketing-Partitioning-311103c0763380eb9f56eb7c21581aad?source=copy_link)
     - partitioning.ipynb
+
+**2026-02-25**
+- [함수 연습](https://www.notion.so/312103c0763380899017e66aec4e99ef?source=copy_link)
+    - functions.ipnyb
