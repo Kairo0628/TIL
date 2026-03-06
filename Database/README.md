@@ -20,3 +20,6 @@
 **2026-02-19**
 - [윈도우 함수](https://www.notion.so/8-Window-Function-306103c07633805d9d0cce1ce1c0bd72?source=copy_link)
 - [정규 표현식](https://www.notion.so/9-30c103c0763380509ac6ee88d723feb9?source=copy_link)
+
+**2026-03-06**
+- [메달리온 아키텍처](https://www.notion.so/3-Medallion-Architecture-31b103c0763380d6b58aee609d0b497e?source=copy_link)
