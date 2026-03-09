@@ -23,3 +23,6 @@
 
 **2026-03-06**
 - [메달리온 아키텍처](https://www.notion.so/3-Medallion-Architecture-31b103c0763380d6b58aee609d0b497e?source=copy_link)
+
+**2026-03-09**
+- [SCD Type](https://www.notion.so/4-SCD-Type-31e103c0763380b98099c0ed41d17f4a?source=copy_link)
