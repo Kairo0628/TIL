@@ -26,3 +26,8 @@
 **2026-02-25**
 - [함수 연습](https://www.notion.so/312103c0763380899017e66aec4e99ef?source=copy_link)
     - functions.ipnyb
+
+**2026-03-11**
+- [Broadcast Variable](https://www.notion.so/10-Broadcast-Variable-320103c0763380e6bdb0f52b468bfc4c?source=copy_link)
+    - broadcast_variable.ipynb
+    

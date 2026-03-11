@@ -26,3 +26,6 @@
 
 **2026-03-09**
 - [SCD Type](https://www.notion.so/4-SCD-Type-31e103c0763380b98099c0ed41d17f4a?source=copy_link)
+
+**2026-03-11**
+- [행 기반, 열 기반 저장소](https://www.notion.so/5-31e103c0763380398b5ec73cb9f0f0b6?source=copy_link)
