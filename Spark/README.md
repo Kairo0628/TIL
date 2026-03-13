@@ -32,3 +32,6 @@
     - broadcast_variable.ipynb
 - [Accumulator](https://www.notion.so/11-Accumulators-320103c076338021a71cda3109cf74c2?source=copy_link)
     - accumulator.ipynb
+
+**2026-03-13**
+- [Speculative Execution](https://www.notion.so/Speculative-Execution-322103c076338033aa35de8d8dc5197c?source=copy_link)
