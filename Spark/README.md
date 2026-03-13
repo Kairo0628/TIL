@@ -30,4 +30,5 @@
 **2026-03-11**
 - [Broadcast Variable](https://www.notion.so/10-Broadcast-Variable-320103c0763380e6bdb0f52b468bfc4c?source=copy_link)
     - broadcast_variable.ipynb
-    
+- [Accumulator](https://www.notion.so/11-Accumulators-320103c076338021a71cda3109cf74c2?source=copy_link)
+    - accumulator.ipynb

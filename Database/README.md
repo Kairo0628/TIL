@@ -29,3 +29,7 @@
 
 **2026-03-11**
 - [행 기반, 열 기반 저장소](https://www.notion.so/5-31e103c0763380398b5ec73cb9f0f0b6?source=copy_link)
+
+**2026-03-13**
+- [Incremental Update](https://www.notion.so/Incremental-Update-322103c076338032ad22fc84ff8fb837?source=copy_link)
+- [DW의 PK](https://www.notion.so/DW-Primary-Key-322103c0763380a9a257e85f67138fc3?source=copy_link)
