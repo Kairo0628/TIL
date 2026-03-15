@@ -27,11 +27,8 @@
 - [함수 연습](https://www.notion.so/312103c0763380899017e66aec4e99ef?source=copy_link)
     - functions.ipnyb
 
-**2026-03-11**
-- [Broadcast Variable](https://www.notion.so/10-Broadcast-Variable-320103c0763380e6bdb0f52b468bfc4c?source=copy_link)
+**2026-03-15**
+- [Spark 기타 기능](https://www.notion.so/Spark-324103c076338038be18d87aaed64f0b?source=copy_link)
+    - **Broadcast Variable / Accumulator / Speculative Execution / Scheduler Resource Allocation**
     - broadcast_variable.ipynb
-- [Accumulator](https://www.notion.so/11-Accumulators-320103c076338021a71cda3109cf74c2?source=copy_link)
     - accumulator.ipynb
-
-**2026-03-13**
-- [Speculative Execution](https://www.notion.so/Speculative-Execution-322103c076338033aa35de8d8dc5197c?source=copy_link)
