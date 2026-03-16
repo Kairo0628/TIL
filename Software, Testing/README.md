@@ -14,6 +14,6 @@
 
 **2026-02-06, 2026-02-07**
 - pytest
-    - [pytest](https://www.notion.so/2-pytest-2ff103c076338000ade6d6b2e40718b7?source=copy_link)
+    - [pytest 기초](https://www.notion.so/2-pytest-2ff103c076338000ade6d6b2e40718b7?source=copy_link)
     - calculator.py: 유닛 테스트의 대상이 되는 파일
     - test_calculator.py: 유닛 테스트 실행 

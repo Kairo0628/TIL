@@ -27,8 +27,17 @@
 - [함수 연습](https://www.notion.so/312103c0763380899017e66aec4e99ef?source=copy_link)
     - functions.ipnyb
 
-**2026-03-15**
 - [Spark 기타 기능](https://www.notion.so/Spark-324103c076338038be18d87aaed64f0b?source=copy_link)
-    - **Broadcast Variable / Accumulator / Speculative Execution / Scheduler Resource Allocation**
-    - broadcast_variable.ipynb
-    - accumulator.ipynb
+    - **2026-03-11**
+        - Broadcast Variable
+            - broadcast_variable.ipynb
+        - Accumulator
+            - accumulator.ipynb
+    - **2026-03-13**
+        - Speculative Execution
+    - **2026-03-15**
+        - Spark Scheduler (Resource Allocation)
+
+**2026-03-16**
+- [Spark Memory](https://www.notion.so/Driver-Executor-Memory-325103c0763380c49e99f6b19c7b77e3?source=copy_link)
+- [Caching](https://www.notion.so/Cache-Persist-320103c0763380489a59c4edca0dbe3e?source=copy_link)
