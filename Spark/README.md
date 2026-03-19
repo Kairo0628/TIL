@@ -41,3 +41,6 @@
 **2026-03-16**
 - [Spark Memory](https://www.notion.so/Driver-Executor-Memory-325103c0763380c49e99f6b19c7b77e3?source=copy_link)
 - [Caching](https://www.notion.so/Cache-Persist-320103c0763380489a59c4edca0dbe3e?source=copy_link)
+
+**2026-03-19**
+- [Partition Pruning](https://www.notion.so/Partition-Pruning-328103c0763380b391f8c5fe8d268c50?source=copy_link)
