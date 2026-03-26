@@ -48,3 +48,6 @@
 **2026-03-20**
 - [Partition 개수 변경](https://www.notion.so/Repartition-Coalesce-329103c076338039baf0c4ff1b8e83ca?source=copy_link)
 - [DataFrame Hint](https://www.notion.so/DataFrame-Hint-329103c0763380f4a374f4f41d7afa32?source=copy_link)
+
+**2026-03-26**
+- [AQE](https://www.notion.so/AQE-329103c07633803490fccf35f0417c81?source=copy_link)
