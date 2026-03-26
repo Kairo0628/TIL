@@ -44,3 +44,7 @@
 
 **2026-03-19**
 - [Partition Pruning](https://www.notion.so/Partition-Pruning-328103c0763380b391f8c5fe8d268c50?source=copy_link)
+
+**2026-03-20**
+- [Partition 개수 변경](https://www.notion.so/Repartition-Coalesce-329103c076338039baf0c4ff1b8e83ca?source=copy_link)
+- [DataFrame Hint](https://www.notion.so/DataFrame-Hint-329103c0763380f4a374f4f41d7afa32?source=copy_link)
