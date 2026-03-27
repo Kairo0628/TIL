@@ -51,3 +51,6 @@
 
 **2026-03-26**
 - [AQE](https://www.notion.so/AQE-329103c07633803490fccf35f0417c81?source=copy_link)
+
+**2026-03-27**
+- [Salting](https://www.notion.so/Salting-330103c076338090b849f626108f6632?source=copy_link)
