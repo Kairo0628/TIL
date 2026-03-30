@@ -54,3 +54,6 @@
 
 **2026-03-27**
 - [Salting](https://www.notion.so/Salting-330103c076338090b849f626108f6632?source=copy_link)
+
+**2026-03-30**
+- [Partition 심화](https://www.notion.so/Partition-333103c0763380bf91e3fe365b33d82a?source=copy_link)
