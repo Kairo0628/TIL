@@ -57,3 +57,6 @@
 
 **2026-03-30**
 - [Partition 심화](https://www.notion.so/Partition-333103c0763380bf91e3fe365b33d82a?source=copy_link)
+
+**2026-04-01**
+- [Spark ML](https://www.notion.so/Spark-ML-333103c07633803487b7f0555506a123?source=copy_link)
