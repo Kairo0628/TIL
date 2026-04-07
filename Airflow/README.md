@@ -4,3 +4,4 @@
     - declaring_dag.py
     - task_dependencies.py
     - control_flow.py
+    - task_group.py
