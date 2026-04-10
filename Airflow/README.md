@@ -5,3 +5,5 @@
     - task_dependencies.py
     - control_flow.py
     - task_group.py
+- [Task](https://www.notion.so/3-Task-33e103c0763380908dfae0b8862db6a0?source=copy_link)
+    - special_exceptions.py
