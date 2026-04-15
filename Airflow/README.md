@@ -7,3 +7,6 @@
     - task_group.py
 - [Task](https://www.notion.so/3-Task-33e103c0763380908dfae0b8862db6a0?source=copy_link)
     - special_exceptions.py
+
+**2026-04-15**
+- [Operator](https://www.notion.so/4-Operator-343103c076338030a992fe20388273c9?source=copy_link)
