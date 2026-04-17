@@ -12,3 +12,6 @@
 
 **2026-04-15**
 - [Operator](https://www.notion.so/4-Operator-343103c076338030a992fe20388273c9?source=copy_link)
+
+**2026-04-17**
+- [Sensor](https://www.notion.so/5-Sensor-345103c0763380e791abfec8874ab929?source=copy_link)
