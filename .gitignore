@@ -3,5 +3,5 @@ __pycache__/
 .coverage
 dev/
 
-logs/
-dbt/
+data/
+source/

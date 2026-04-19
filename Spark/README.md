@@ -3,11 +3,11 @@
 **2026-02-12**
 - [MapReduce, YARN의 동작 방식](https://www.notion.so/1-Hadoop-305103c07633806e85d8fb6d4effac3f?source=copy_link)
 - [Spark 기본 개념](https://www.notion.so/2-Spark-305103c07633805bab32e76581d4c74c?source=copy_link)
-- [Spark 데이터, Spark Session](https://www.notion.so/3-Spark-305103c0763380b594f7e2ae320cbe14?source=copy_link)
+- [Spark 데이터](https://www.notion.so/3-Spark-305103c0763380b594f7e2ae320cbe14?source=copy_link)
 
 **2026-02-20**
 - [Spark 데이터프레임 처리 기초](https://www.notion.so/4-30c103c07633807ba776d3235ada0bca?source=copy_link)
-    - spark_dataframe_*.ipynb
+    - spark_dataframe.ipynb
 
 **2026-02-23**
 - [JOIN](https://www.notion.so/5-JOIN-310103c0763380a18be5c2b8b5fa71a7?source=copy_link)
