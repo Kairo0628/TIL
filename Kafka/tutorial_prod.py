@@ -27,7 +27,7 @@ def create_topic(producer):
             topic = topic,
             value = value,
             key = key,
-            callback = delivery_callback
+            on_delivery = delivery_callback
         )
 
         producer.poll(0)
