@@ -33,3 +33,8 @@
 **2026-03-13**
 - [Incremental Update](https://www.notion.so/Incremental-Update-322103c076338032ad22fc84ff8fb837?source=copy_link)
 - [DW의 PK](https://www.notion.so/DW-Primary-Key-322103c0763380a9a257e85f67138fc3?source=copy_link)
+
+## RDBMS (postgreSQL)
+**2026-05-01**
+- [RDB](https://www.notion.so/RDB-352103c076338079b71af68cd28f5b0d?source=copy_link)
+- [Key, Index](https://www.notion.so/Key-Index-352103c076338062a07ec3d15986be95?source=copy_link)
