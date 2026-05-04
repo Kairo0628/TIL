@@ -60,3 +60,6 @@
 
 **2026-04-01**
 - [Spark ML](https://www.notion.so/Spark-ML-333103c07633803487b7f0555506a123?source=copy_link)
+
+**2026-05-04**
+- [Join Strategies](https://www.notion.so/5-Spark-Join-Strategies-356103c0763380afb9abccafa129e2ce?source=copy_link)
