@@ -6,7 +6,7 @@
 - [Spark 데이터](https://www.notion.so/3-Spark-305103c0763380b594f7e2ae320cbe14?source=copy_link)
 
 **2026-02-20**
-- [Spark 데이터프레임 처리 기초](https://www.notion.so/4-30c103c07633807ba776d3235ada0bca?source=copy_link)
+- [Spark 데이터프레임 처리](https://www.notion.so/4-30c103c07633807ba776d3235ada0bca?source=copy_link)
     - spark_dataframe.ipynb
 
 **2026-02-23**
