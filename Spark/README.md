@@ -10,8 +10,6 @@
     - spark_dataframe.ipynb
 
 **2026-02-23**
-- [JOIN](https://www.notion.so/5-JOIN-310103c0763380a18be5c2b8b5fa71a7?source=copy_link)
-    - join.ipynb
 - [UDF](https://www.notion.so/6-UDF-310103c0763380f18b1fd1795b84f4ff?source=copy_link)
     - udf.ipynb
 
