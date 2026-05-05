@@ -38,3 +38,6 @@
 **2026-05-01**
 - [RDB](https://www.notion.so/RDB-352103c076338079b71af68cd28f5b0d?source=copy_link)
 - [Key, Index](https://www.notion.so/Key-Index-352103c076338062a07ec3d15986be95?source=copy_link)
+
+**2026-05-05**
+- [SQL 1(DDL)](https://www.notion.so/SQL-1-353103c0763380c4b09adebae7d37a2c?source=copy_link)
