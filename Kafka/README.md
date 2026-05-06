@@ -7,3 +7,6 @@
 - [Kafka Tutorial](https://www.notion.so/2-Kafka-Tutorial-34f103c0763380e88c38f7057740a541?source=copy_link)
     - tutorial_prod.py
     - tutorial_cons.py
+
+**2026-05-06**
+- [Kafka Connect](https://www.notion.so/3-Kafka-Connect-358103c0763380f68f57e8e106eaf55f?source=copy_link)
