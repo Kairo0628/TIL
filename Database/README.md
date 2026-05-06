@@ -40,6 +40,9 @@
 - [Key, Index](https://www.notion.so/Key-Index-352103c076338062a07ec3d15986be95?source=copy_link)
 
 **2026-05-05**
-- [SQL 1(DDL)](https://www.notion.so/SQL-1-353103c0763380c4b09adebae7d37a2c?source=copy_link)
-- [SQL 2(DML)](https://www.notion.so/SQL-2-357103c0763380d18b62c01454daa00d?source=copy_link)
+- [SQL (DDL)](https://www.notion.so/SQL-1-353103c0763380c4b09adebae7d37a2c?source=copy_link)
+- [SQL (DML)](https://www.notion.so/SQL-2-357103c0763380d18b62c01454daa00d?source=copy_link)
 - [Join](https://www.notion.so/JOIN-310103c0763380a18be5c2b8b5fa71a7?source=copy_link)
+
+**2026-05-06**
+- [SQL (Query 1)](https://www.notion.so/SQL-Query-357103c0763380aca0faff026a6d0421?source=copy_link)
