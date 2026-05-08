@@ -11,7 +11,7 @@
 
 **2026-02-23**
 - [UDF](https://www.notion.so/6-UDF-310103c0763380f18b1fd1795b84f4ff?source=copy_link)
-    - udf.ipynb
+    - udf.py
 
 **2026-02-24**
 - [Spark 파일 포맷](https://www.notion.so/7-Spark-311103c0763380bcbfb1dd23aadf80e8?source=copy_link)
