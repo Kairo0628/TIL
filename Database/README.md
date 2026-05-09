@@ -46,3 +46,7 @@
 
 **2026-05-06**
 - [SQL (Query 1)](https://www.notion.so/SQL-Query-357103c0763380aca0faff026a6d0421?source=copy_link)
+
+**2026-05-09**
+- [SQL (Query 2)](https://www.notion.so/SQL-Query-2-359103c076338020b229fd74be801f80?source=copy_link)
+- [SQL (CTE)](https://www.notion.so/SQL-CTE-35b103c076338010bd17f23b08b51fdd?source=copy_link)
