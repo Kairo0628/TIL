@@ -4,12 +4,14 @@ import pyspark.sql.functions as f
 
 import time
 
-WAREHOUSE_PATH = 'C:\\Users\\user\\Desktop\\Data Engineering\\spark_warehouse'
+WAREHOUSE_PATH = 'C:\\Spark\\spark_warehouse'
+METASTORE_PATH = 'C:\\Spark\\metastore_db'
 
 conf = SparkConf()
 conf.set('spark.app.name', 'spark join strategies')
 conf.set('spark.master', 'local[*]')
 conf.set('spark.sql.warehouse.dir', WAREHOUSE_PATH)
+conf.set('spark.hadoop.javax.jdo.option.ConnectionURL', f'jdbc:derby:{METASTORE_PATH};create=true')
 
 spark = SparkSession.builder\
         .config(conf = conf)\
@@ -19,7 +21,7 @@ spark = SparkSession.builder\
 def is_table_exists(table):
     return spark.catalog._jcatalog.tableExists(table)
 
-if not is_table_exists('small_dept'):
+if not is_table_exists('small_dept'):   
     print('Create Example Table')
 
     dept = [(i, f'Dept_{i}', i * 100) for i in range(1, 101)]

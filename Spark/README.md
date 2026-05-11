@@ -3,21 +3,23 @@
 **2026-02-12**
 - [MapReduce, YARN의 동작 방식](https://www.notion.so/1-Hadoop-305103c07633806e85d8fb6d4effac3f?source=copy_link)
 - [Spark 기본 개념](https://www.notion.so/2-Spark-305103c07633805bab32e76581d4c74c?source=copy_link)
-- [Spark 데이터](https://www.notion.so/3-Spark-305103c0763380b594f7e2ae320cbe14?source=copy_link)
+- [Spark 데이터 아키텍처](https://www.notion.so/3-Spark-305103c0763380b594f7e2ae320cbe14?source=copy_link)
 
 **2026-02-20**
 - [Spark 데이터프레임 처리](https://www.notion.so/4-30c103c07633807ba776d3235ada0bca?source=copy_link)
     - spark_dataframe.ipynb
+
+**2026-05-04**
+- [Join Strategies](https://www.notion.so/5-Spark-Join-Strategies-356103c0763380afb9abccafa129e2ce?source=copy_link)
 
 **2026-02-23**
 - [UDF](https://www.notion.so/6-UDF-310103c0763380f18b1fd1795b84f4ff?source=copy_link)
     - udf.py
 
 **2026-02-24**
-- [Spark 파일 포맷](https://www.notion.so/7-Spark-311103c0763380bcbfb1dd23aadf80e8?source=copy_link)
-    - format.ipynb
+- [Spark Data Source](https://www.notion.so/7-Spark-311103c0763380bcbfb1dd23aadf80e8?source=copy_link)
 - [Execution Plan](https://www.notion.so/8-Execution-Plan-311103c0763380daae85ca855901364e?source=copy_link)
-    - execution_plan.ipynb
+    - execution_plan.py
 - [Bucketing, Partitioning](https://www.notion.so/9-Bucketing-Partitioning-311103c0763380eb9f56eb7c21581aad?source=copy_link)
     - partitioning.ipynb
 
@@ -58,6 +60,3 @@
 
 **2026-04-01**
 - [Spark ML](https://www.notion.so/Spark-ML-333103c07633803487b7f0555506a123?source=copy_link)
-
-**2026-05-04**
-- [Join Strategies](https://www.notion.so/5-Spark-Join-Strategies-356103c0763380afb9abccafa129e2ce?source=copy_link)
