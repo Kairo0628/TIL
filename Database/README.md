@@ -50,3 +50,10 @@
 **2026-05-09**
 - [SQL (Query 2)](https://www.notion.so/SQL-Query-2-359103c076338020b229fd74be801f80?source=copy_link)
 - [SQL (CTE)](https://www.notion.so/SQL-CTE-35b103c076338010bd17f23b08b51fdd?source=copy_link)
+
+**2026-05-13**
+- [데이터 모델링](https://www.notion.so/35d103c07633806dadcfff1a73d58dad?source=copy_link)
+
+## Data Systems Fundamentals
+**2026-05-13**
+- [Data Storages](https://www.notion.so/Data-Storages-35e103c0763380cdb38ed492a6018673?source=copy_link)
