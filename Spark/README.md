@@ -20,6 +20,10 @@
 - [Spark Data Source](https://www.notion.so/7-Spark-311103c0763380bcbfb1dd23aadf80e8?source=copy_link)
 - [Execution Plan](https://www.notion.so/8-Execution-Plan-311103c0763380daae85ca855901364e?source=copy_link)
     - execution_plan.py
+
+**2026-03-16**
+- [Driver, Executor](https://www.notion.so/Driver-Executor-Memory-325103c0763380c49e99f6b19c7b77e3?source=copy_link)
+
 - [Bucketing, Partitioning](https://www.notion.so/9-Bucketing-Partitioning-311103c0763380eb9f56eb7c21581aad?source=copy_link)
     - partitioning.ipynb
 
@@ -39,7 +43,6 @@
         - Spark Scheduler (Resource Allocation)
 
 **2026-03-16**
-- [Spark Memory](https://www.notion.so/Driver-Executor-Memory-325103c0763380c49e99f6b19c7b77e3?source=copy_link)
 - [Caching](https://www.notion.so/Cache-Persist-320103c0763380489a59c4edca0dbe3e?source=copy_link)
 
 **2026-03-19**
