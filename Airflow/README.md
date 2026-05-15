@@ -15,6 +15,7 @@
 
 **2026-04-17**
 - [Sensor](https://www.notion.so/5-Sensor-345103c0763380e791abfec8874ab929?source=copy_link)
+    - sensors.py
 
 **2026-04-28**
 - [TaskFlow](https://www.notion.so/6-TaskFlow-350103c07633809d81adca30db709eb9?source=copy_link)
@@ -24,3 +25,7 @@
 
 **2026-05-07**
 - [Backfill](https://www.notion.so/8-Backfill-359103c07633808b909ccd97c2a5de11?source=copy_link)
+
+**2026-05-15**
+- [XComs](https://www.notion.so/9-XComs-360103c076338084a88ec4f4ac2998c8?source=copy_link)
+    - xcoms.py
