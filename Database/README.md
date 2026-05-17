@@ -57,3 +57,6 @@
 ## Data Systems Fundamentals
 **2026-05-13**
 - [Data Storages](https://www.notion.so/Data-Storages-35e103c0763380cdb38ed492a6018673?source=copy_link)
+
+**2026-05-17**
+- [Data Modeling](https://www.notion.so/Data-Modeling-362103c0763380598264d591d957baba?source=copy_link)
