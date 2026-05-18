@@ -11,6 +11,7 @@
 
 **2026-05-04**
 - [Join Strategies](https://www.notion.so/5-Spark-Join-Strategies-356103c0763380afb9abccafa129e2ce?source=copy_link)
+    - join_strategies.py
 
 **2026-02-23**
 - [UDF](https://www.notion.so/6-UDF-310103c0763380f18b1fd1795b84f4ff?source=copy_link)
@@ -23,6 +24,14 @@
 
 **2026-03-16**
 - [Driver, Executor](https://www.notion.so/Driver-Executor-Memory-325103c0763380c49e99f6b19c7b77e3?source=copy_link)
+
+**2026-05-18**
+- [Spark 성능 튜닝](https://www.notion.so/Computer-Science-TIL-2fb103c07633800893e9cc4f9fafb2d9?source=copy_link)
+    - 기존 Caching + Partition Pruning + AQE 통합
+    - performance_tuning_01.py
+    - performance_tuning_02.py
+
+
 
 - [Bucketing, Partitioning](https://www.notion.so/9-Bucketing-Partitioning-311103c0763380eb9f56eb7c21581aad?source=copy_link)
     - partitioning.ipynb
