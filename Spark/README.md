@@ -32,7 +32,6 @@
     - performance_tuning_02.py
 
 
-
 - [Bucketing, Partitioning](https://www.notion.so/9-Bucketing-Partitioning-311103c0763380eb9f56eb7c21581aad?source=copy_link)
     - partitioning.ipynb
 

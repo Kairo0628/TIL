@@ -1,5 +1,38 @@
 ## 데이터베이스와 관련된 개념에 대해 공부한 문서입니다.
 
+## RDBMS (postgreSQL)
+**2026-05-01**
+- [RDB](https://www.notion.so/RDB-352103c076338079b71af68cd28f5b0d?source=copy_link)
+- [Key, Index](https://www.notion.so/Key-Index-352103c076338062a07ec3d15986be95?source=copy_link)
+
+**2026-05-05**
+- [SQL (DDL)](https://www.notion.so/SQL-1-353103c0763380c4b09adebae7d37a2c?source=copy_link)
+- [SQL (DML)](https://www.notion.so/SQL-2-357103c0763380d18b62c01454daa00d?source=copy_link)
+- [Join](https://www.notion.so/JOIN-310103c0763380a18be5c2b8b5fa71a7?source=copy_link)
+
+**2026-05-06**
+- [SQL (Query 1)](https://www.notion.so/SQL-Query-357103c0763380aca0faff026a6d0421?source=copy_link)
+
+**2026-05-09**
+- [SQL (Query 2)](https://www.notion.so/SQL-Query-2-359103c076338020b229fd74be801f80?source=copy_link)
+- [SQL (CTE)](https://www.notion.so/SQL-CTE-35b103c076338010bd17f23b08b51fdd?source=copy_link)
+
+**2026-05-13**
+- [데이터 모델링](https://www.notion.so/35d103c07633806dadcfff1a73d58dad?source=copy_link)
+
+## Data Systems Fundamentals
+**2026-05-13**
+- [Data Storages](https://www.notion.so/Data-Storages-35e103c0763380cdb38ed492a6018673?source=copy_link)
+
+**2026-05-17**
+- [Data Modeling](https://www.notion.so/Data-Modeling-362103c0763380598264d591d957baba?source=copy_link)
+
+**2026-05-20**
+- [CAP 정리](https://www.notion.so/CAP-Theorem-365103c0763380e29fbee6ffdfc64a27?source=copy_link)
+
+
+
+### 제거 예정
 **2026-02-09**
 - [데이터베이스](https://www.notion.so/1-2fb103c07633803198cbccd15ec7e561?source=copy_link)
 - [Key, Index](https://www.notion.so/2-Key-Index-302103c076338093ba19d8a2d34428e5?source=copy_link)
@@ -33,30 +66,3 @@
 **2026-03-13**
 - [Incremental Update](https://www.notion.so/Incremental-Update-322103c076338032ad22fc84ff8fb837?source=copy_link)
 - [DW의 PK](https://www.notion.so/DW-Primary-Key-322103c0763380a9a257e85f67138fc3?source=copy_link)
-
-## RDBMS (postgreSQL)
-**2026-05-01**
-- [RDB](https://www.notion.so/RDB-352103c076338079b71af68cd28f5b0d?source=copy_link)
-- [Key, Index](https://www.notion.so/Key-Index-352103c076338062a07ec3d15986be95?source=copy_link)
-
-**2026-05-05**
-- [SQL (DDL)](https://www.notion.so/SQL-1-353103c0763380c4b09adebae7d37a2c?source=copy_link)
-- [SQL (DML)](https://www.notion.so/SQL-2-357103c0763380d18b62c01454daa00d?source=copy_link)
-- [Join](https://www.notion.so/JOIN-310103c0763380a18be5c2b8b5fa71a7?source=copy_link)
-
-**2026-05-06**
-- [SQL (Query 1)](https://www.notion.so/SQL-Query-357103c0763380aca0faff026a6d0421?source=copy_link)
-
-**2026-05-09**
-- [SQL (Query 2)](https://www.notion.so/SQL-Query-2-359103c076338020b229fd74be801f80?source=copy_link)
-- [SQL (CTE)](https://www.notion.so/SQL-CTE-35b103c076338010bd17f23b08b51fdd?source=copy_link)
-
-**2026-05-13**
-- [데이터 모델링](https://www.notion.so/35d103c07633806dadcfff1a73d58dad?source=copy_link)
-
-## Data Systems Fundamentals
-**2026-05-13**
-- [Data Storages](https://www.notion.so/Data-Storages-35e103c0763380cdb38ed492a6018673?source=copy_link)
-
-**2026-05-17**
-- [Data Modeling](https://www.notion.so/Data-Modeling-362103c0763380598264d591d957baba?source=copy_link)
