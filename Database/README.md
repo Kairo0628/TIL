@@ -30,6 +30,9 @@
 **2026-05-20**
 - [CAP 정리](https://www.notion.so/CAP-Theorem-365103c0763380e29fbee6ffdfc64a27?source=copy_link)
 
+**2026-05-21**
+- [Partitioning](https://www.notion.so/Partitioning-367103c0763380989bcfebad91f90146?source=copy_link)
+
 
 
 ### 제거 예정
