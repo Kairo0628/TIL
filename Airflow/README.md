@@ -29,3 +29,8 @@
 **2026-05-15**
 - [XComs](https://www.notion.so/9-XComs-360103c076338084a88ec4f4ac2998c8?source=copy_link)
     - xcoms.py
+
+**2026-05-22**
+- [병렬성 제어](https://www.notion.so/10-367103c076338021a042e19600e4306b?source=copy_link)
+    - pools.py
+    - dag_concurrency.py
