@@ -31,9 +31,8 @@
     - performance_tuning_01.py
     - performance_tuning_02.py
 
-
-- [Bucketing, Partitioning](https://www.notion.so/9-Bucketing-Partitioning-311103c0763380eb9f56eb7c21581aad?source=copy_link)
-    - partitioning.ipynb
+**2026-05-25**
+- [Salting](https://www.notion.so/11-Salting-330103c076338090b849f626108f6632?source=copy_link)
 
 **2026-02-25**
 - [함수 연습](https://www.notion.so/312103c0763380899017e66aec4e99ef?source=copy_link)
