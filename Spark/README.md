@@ -33,10 +33,16 @@
 
 **2026-05-25**
 - [Salting](https://www.notion.so/11-Salting-330103c076338090b849f626108f6632?source=copy_link)
+    - salting.py
 
-**2026-02-25**
-- [함수 연습](https://www.notion.so/312103c0763380899017e66aec4e99ef?source=copy_link)
-    - functions.ipnyb
+**2026-05-26**
+- [Partition](https://www.notion.so/12-Partition-333103c0763380bf91e3fe365b33d82a?source=copy_link)
+
+**2026-04-01**
+- [Spark ML](https://www.notion.so/13-Spark-ML-333103c07633803487b7f0555506a123?source=copy_link)
+    - sparkML.ipynb
+
+
 
 - [Spark 기타 기능](https://www.notion.so/Spark-324103c076338038be18d87aaed64f0b?source=copy_link)
     - **2026-03-11**
@@ -49,24 +55,3 @@
     - **2026-03-15**
         - Spark Scheduler (Resource Allocation)
 
-**2026-03-16**
-- [Caching](https://www.notion.so/Cache-Persist-320103c0763380489a59c4edca0dbe3e?source=copy_link)
-
-**2026-03-19**
-- [Partition Pruning](https://www.notion.so/Partition-Pruning-328103c0763380b391f8c5fe8d268c50?source=copy_link)
-
-**2026-03-20**
-- [Partition 개수 변경](https://www.notion.so/Repartition-Coalesce-329103c076338039baf0c4ff1b8e83ca?source=copy_link)
-- [DataFrame Hint](https://www.notion.so/DataFrame-Hint-329103c0763380f4a374f4f41d7afa32?source=copy_link)
-
-**2026-03-26**
-- [AQE](https://www.notion.so/AQE-329103c07633803490fccf35f0417c81?source=copy_link)
-
-**2026-03-27**
-- [Salting](https://www.notion.so/Salting-330103c076338090b849f626108f6632?source=copy_link)
-
-**2026-03-30**
-- [Partition 심화](https://www.notion.so/Partition-333103c0763380bf91e3fe365b33d82a?source=copy_link)
-
-**2026-04-01**
-- [Spark ML](https://www.notion.so/Spark-ML-333103c07633803487b7f0555506a123?source=copy_link)
