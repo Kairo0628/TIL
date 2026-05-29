@@ -42,6 +42,10 @@
 - [Spark ML](https://www.notion.so/13-Spark-ML-333103c07633803487b7f0555506a123?source=copy_link)
     - sparkML.ipynb
 
+**2026-05-29**
+- [Structured Streaming 정리](https://app.notion.com/p/14-Structured-Streaming-36c103c07633806892a8e352721c9c05?source=copy_link)
+    - push_word.py
+
 
 
 - [Spark 기타 기능](https://www.notion.so/Spark-324103c076338038be18d87aaed64f0b?source=copy_link)
