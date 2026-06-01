@@ -45,6 +45,8 @@
 **2026-05-29**
 - [Structured Streaming 정리](https://app.notion.com/p/14-Structured-Streaming-36c103c07633806892a8e352721c9c05?source=copy_link)
     - push_word.py
+    - kafka_source.py
+    - kafka_streaming.py
 
 
 
