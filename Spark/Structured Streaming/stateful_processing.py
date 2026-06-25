@@ -33,7 +33,7 @@ class CustomProcessor(StatefulProcessor):
                 self.handle.deleteTimer(timer)
             self.state.update((max_value, max_timestamp))
 
-        self.handle.registerTimer(timerValues.getCurrentProcessingTimeInMs() + 3000)
+        self.handle.registerTimer(timerValues.getCurrentProcessingTimeInMs() + 15000)
 
         return iter([])
     
@@ -42,7 +42,7 @@ class CustomProcessor(StatefulProcessor):
 
         downtime_duration = timerValues.getCurrentProcessingTimeInMs() - int(latest_timestamp.timestamp() * 1000)
 
-        self.handle.registerTimer(timerValues.getCurrentProcessingTimeInMs() + 5000)
+        self.handle.registerTimer(timerValues.getCurrentProcessingTimeInMs() + 30000)
 
         yield Row(key = key[0], value = latest_value, timeValues = str(downtime_duration))
 
