@@ -1,0 +1,6 @@
+sources:
+  - name: raw
+    schema: learn_dbt_raw
+    description: Raw Data Source
+    tables:
+      - name: raw_stores

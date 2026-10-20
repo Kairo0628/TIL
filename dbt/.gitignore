@@ -1,3 +1,8 @@
 jaffle_shop/
-logs/
+
 dbt_bigquery_key.json
+
+dbt_packages/
+dbt_internal_packages/
+target/
+logs/

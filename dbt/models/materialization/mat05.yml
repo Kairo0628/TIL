@@ -1,0 +1,5 @@
+models:
+  - name: mat05
+    config:
+      materialized: view
+  

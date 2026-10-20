@@ -1,0 +1,4 @@
+models:
+  - name: mat02
+    config:
+      materialized: view
