@@ -1,0 +1,3 @@
+jaffle_shop/
+logs/
+dbt_bigquery_key.json
